@@ -1,0 +1,13 @@
+ADMIN - train arrival,departure details,ticket fare,tickets bought,blocking reserved seats.
+
+STAKEHOLDERS-
+
+*Railway Admins(station staff,conductors,department engineers)
+*Railway passengers(users)
+
+External stakeholers
+
+*pakistan government
+*banks
+*internet service providers
+*mobile message services
